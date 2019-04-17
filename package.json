@@ -58,7 +58,7 @@
     "react-dom": "^16.0.0",
     "url-loader": "^0.6.2",
     "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.3"
+    "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
     "1-liners": "^0.4.0",
